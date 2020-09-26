@@ -1,5 +1,4 @@
-import java.math.BigDecimal;
-import java.math.BigInteger;
+
 
 public class App {
 
@@ -45,6 +44,7 @@ System.out.println("My name is " + fullName);
 	char wifeMiddleInitial = 'M';
 	String wifeFullName = wifeFirstName + " " + wifeMiddleInitial + " " + wifeLastName;
 	System.out.println("My wife's name is " + wifeFullName);
+	//full name of student's wife
 	
 	
 	
